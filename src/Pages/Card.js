@@ -6,8 +6,7 @@ import {FontAwesomeIcon} from'@fortawesome/react-fontawesome';
 import {faBookOpenReader} from'@fortawesome/free-solid-svg-icons';
 import {faLaptopCode} from'@fortawesome/free-solid-svg-icons';
 import ReactCardFlip from 'react-card-flip';
-
-
+import  'animate.css'
 
 function Card() {
 
@@ -18,6 +17,10 @@ function Card() {
        }
    
 return <div className="marginCard">
+  
+ 
+
+
  <ReactCardFlip isFlipped={isFlipped} flipDirection="horizontal">
            <div className="PresentationCard">
               <img  className="facepic"  src={ImageFace} alt=" " />
@@ -25,9 +28,11 @@ return <div className="marginCard">
               <h3 className="name"   > Damian Martinez</h3>
             
                <p className="profesion">FullSatck Developer </p>
+               <p className="profesion2">BLIS </p>
              
 
-                <button onClick={handleClick}  className="buttonCard"> <FontAwesomeIcon icon={faBookOpenReader} className="hover:text-red-500" /> 
+
+                <button onClick={handleClick}  className="buttonCard "> <FontAwesomeIcon icon={faBookOpenReader} className="hover:text-red-500 " /> 
                </button>
                
              </div>

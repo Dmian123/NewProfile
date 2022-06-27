@@ -3,24 +3,23 @@ import React from "react";
 
 import "bootstrap/dist/css/bootstrap.min.css";
 
-import SideNav from "./SideNav";
+
 
 function AboutMe(){
 
 
 return<div className="backgroundAboutMe" >
-  
 
-  <SideNav/>
+ 
 
 
 <div  className="Resume">
 
 </div>
 
- <p className="Intro"> Looking for a job position where the use of my skills, experience and
+ <div className="Intro"> Looking for a job position where the use of my skills, experience and
 education would be an advantage to the growth of my employer and
-myself.</p>
+myself.</div>
  
               
             
@@ -61,7 +60,7 @@ Verifying orders with customers to ensure a satisfactory installation process.
 <h5 className="recentJob">NEGMAS INC</h5>
 <h6 className="webText">Web Development Intern(Remote)</h6>
 <p className="textDescription">
- April 2021-Dec2021
+ January 2021-June 2021
  Web Development Intern
  NEGMAS INC Apprenticeship
  As part of my apprenticeship at NEGMAS INC, I helped in several of the company's projects while improving my Web Development skills. 
@@ -131,7 +130,7 @@ Engineering in Telecommunications and Electronics, I did 2 years of study where 
 
  <ul className="text"> Networking
     <li> Optic Fiber:  Splice, signal troubleshoot ,installation </li>
-    <li>Etherne: Splice,signal troubleshoot,installation </li>
+    <li>Ethernet: Splice,signal troubleshoot,installation </li>
     <li>Coax: Splice,signal troubleshoot,installation </li>
     <li>Copper: Splice,signal troubleshoot,installation </li>
     <li>Router and Modem installation </li>
@@ -166,7 +165,7 @@ Engineering in Telecommunications and Electronics, I did 2 years of study where 
  
 
  
-    <h3 className="resumeTitle" id="ContactText">Contact Me </h3>
+    <h3 className="resumeTitle" id="ContactText">Contact Me</h3>
 
     <ul className="text">
        <li> Email: <a href="mailto:dmSoftWork8@gmail.com">dmSoftWork8@gmail.com</a>
@@ -175,6 +174,8 @@ Engineering in Telecommunications and Electronics, I did 2 years of study where 
 
 
    </ul>
+
+   
  </div>
 
 
