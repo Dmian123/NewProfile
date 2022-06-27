@@ -2,7 +2,7 @@
   "name": "my-profile",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Dmian123.github.io/Profile",
+  "homepage": "https://github.com/Dmian123/NewProfile.git",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
     "@fortawesome/free-brands-svg-icons": "^6.1.1",
