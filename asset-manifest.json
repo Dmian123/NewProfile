@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Profile/static/css/main.933a38ef.css",
-    "main.js": "/Profile/static/js/main.8fba3f2e.js",
-    "static/js/787.9077b1c8.chunk.js": "/Profile/static/js/787.9077b1c8.chunk.js",
-    "static/media/IMG1toUse.jpg": "/Profile/static/media/IMG1toUse.329edfb00fdf4169d1ed.jpg",
-    "static/media/Resume-update 2022.pdf": "/Profile/static/media/Resume-update 2022.b29e9e0bb5cd6760b022.pdf",
-    "index.html": "/Profile/index.html",
-    "main.933a38ef.css.map": "/Profile/static/css/main.933a38ef.css.map",
-    "main.8fba3f2e.js.map": "/Profile/static/js/main.8fba3f2e.js.map",
-    "787.9077b1c8.chunk.js.map": "/Profile/static/js/787.9077b1c8.chunk.js.map"
+    "main.css": "/NewProfile/static/css/main.933a38ef.css",
+    "main.js": "/NewProfile/static/js/main.1259c8bf.js",
+    "static/js/787.9077b1c8.chunk.js": "/NewProfile/static/js/787.9077b1c8.chunk.js",
+    "static/media/IMG1toUse.jpg": "/NewProfile/static/media/IMG1toUse.329edfb00fdf4169d1ed.jpg",
+    "static/media/Resume-update 2022.pdf": "/NewProfile/static/media/Resume-update 2022.b29e9e0bb5cd6760b022.pdf",
+    "index.html": "/NewProfile/index.html",
+    "main.933a38ef.css.map": "/NewProfile/static/css/main.933a38ef.css.map",
+    "main.1259c8bf.js.map": "/NewProfile/static/js/main.1259c8bf.js.map",
+    "787.9077b1c8.chunk.js.map": "/NewProfile/static/js/787.9077b1c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.933a38ef.css",
-    "static/js/main.8fba3f2e.js"
+    "static/js/main.1259c8bf.js"
   ]
 }
